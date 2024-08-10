@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  .height70{
+    height: 70px;
+  }
+  .width100{
+    width: 100%;
+  }
+  
+  .primarycolor{
+    background-color: #000000;
+    
+  }
+  .secondarycolor{
+    background-color: #000000;
+  }
+  
+  .background-box {
+    background-color: #000000ce;
+    height: calc(100vh - 70px); /* Full height minus the navbar height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-align: center;
+  }
+ h1{
+  color:white;
+ }
+ .primarycolor h1 {
+  color: white;
+}
+
+.title h1 {
+  color: white;
+}
